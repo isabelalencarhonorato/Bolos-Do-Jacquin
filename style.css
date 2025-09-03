@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+svg {
+    height: 50px;
+}
+
+header {
+    background-color: #ffd188;
+    height: 100px;
+}
+
+.container_cabecalho {
+    display: flex;
+    justify-content: space-between;
+    width: 1440;
+    background-color: aquamarine;
+    margin: 0% auto;
+    height: 100%;
+}
+
+.icone_home {
+    height: 24px;
+
+}
+
+.box_busca{
+    position: relative;
+}
+
+.icone_lupa {
+    height: 24px;
+    position: absolute;
+    left: 9px;
+    top: 9%;
+    fill: #b0b0b0;
+}
+
+.logo {
+    height: 60px;
+}
+
+.campo_busca {
+    width: 500px;
+    height: 42px;
+    border-radius: 10px;
+    border: solid 1px #cccccc ;
+}
