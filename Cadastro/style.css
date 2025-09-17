@@ -282,6 +282,7 @@ footer {
 }
 
 footer p{
+    text-align: center;
     font-family: "Julius Sans One", sans-serif;
     font-size: 20px;
     
